@@ -2,7 +2,7 @@
 
 <p align="center">
 I build websites with HTML, CSS, JavaScript and PHP.<br>
-I like working in a team, and I use AI tools every day to move faster and learn new things.
+I like working in a team, and I use <strong>AI tools</strong> every day to move faster and learn new things.
 </p>
 
 <p align="center">
