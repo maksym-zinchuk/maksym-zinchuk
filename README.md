@@ -34,7 +34,7 @@ I like working in a team, and I use AI tools every day to move faster and learn 
 ## Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=github-dark&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=maksym-zinchuk&theme=github-dark&hide_border=true&background=0D1117" />
 </p>
 
 ## Contacts
