@@ -23,19 +23,21 @@ Studying Cybersecurity at a university in Poland
 </p>
 
 ## Certificates
-
 <table align="center">
   <tr>
-    <td><img src="./cert-ccna1.svg" width="270" alt="CCNA 1"></td>
-    <td><img src="./cert-ccna2.svg" width="270" alt="CCNA 2"></td>
-    <td><img src="./cert-cyber-intro.svg" width="270" alt="Introduction to Cybersecurity"></td>
+    <td><img src="./cert-ccna1.svg" width="300" alt="CCNA 1"></td>
+    <td><img src="./cert-ccna2.svg" width="300" alt="CCNA 2"></td>
   </tr>
   <tr>
-    <td><img src="./cert-cyber-analyst.svg" width="270" alt="Junior Cybersecurity Analyst"></td>
-    <td><img src="./cert-inf02-theory.svg" width="270" alt="INF.02 Theory"></td>
-    <td><img src="./cert-inf02-practical.svg" width="270" alt="INF.02 Practical"></td>
+    <td><img src="./cert-cyber-intro.svg" width="300" alt="Introduction to Cybersecurity"></td>
+    <td><img src="./cert-cyber-analyst.svg" width="300" alt="Junior Cybersecurity Analyst"></td>
+  </tr>
+  <tr>
+    <td><img src="./cert-inf02-theory.svg" width="300" alt="INF.02 Theory"></td>
+    <td><img src="./cert-inf02-practical.svg" width="300" alt="INF.02 Practical"></td>
   </tr>
 </table>
+
 
 ## Activity
 
