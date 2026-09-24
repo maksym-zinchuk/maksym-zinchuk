@@ -2,18 +2,21 @@
 
 <p align="center">
 I build websites with HTML, CSS, JavaScript and PHP.<br>
-I like working in a team, and I use AI tools every day to move faster and learn new things.
+I like working in a team, and I use AI tools every day to move faster and learn new things.<br>
+I graduated from High School No. 1.<br>
+I am currently studying Informatics at a technical school in Poland<br>
+and Cybersecurity at a Polish university.
 </p>
 
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,git,github" alt="HTML, CSS, JavaScript, PHP, Figma, Git and GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
-  <img src="https://img.shields.io/badge/InfinityFree-0B7285?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/InfinityFree-0B7285?style=flat-square" alt="InfinityFree" />
 </p>
 
 ## Certificates
@@ -34,13 +37,19 @@ I like working in a team, and I use AI tools every day to move faster and learn 
 ## Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=maksym-zinchuk&theme=github-dark&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=maksym-zinchuk&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub activity streak" />
 </p>
 
 ## Contacts
 
 <p align="center">
-  <a href="https://t.me/telegram_nick"><img src="https://img.shields.io/badge/Telegram-%40telegram__nick-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Maksym%20Zinchuk-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>
-  <a href="mailto:your@mail.com"><img src="https://img.shields.io/badge/Email-your%40mail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://t.me/telegram_nick">
+    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="40" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your@mail.com">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" alt="Email" />
+  </a>
 </p>
