@@ -25,12 +25,12 @@ Studying Cybersecurity at a university in Poland
 ## Certificates
 <table align="center">
   <tr>
-    <td><img src="./cert-ccna1.svg" width="300" alt="CCNA 1"></td>
-    <td><img src="./cert-ccna2.svg" width="300" alt="CCNA 2"></td>
+    <td><img src="./7e76a6af-48b7-40d8-8573-9e8c99bc.png" width="300" alt="Certificate"></td>
+    <td><img src="./cybersecurity_pathway_27.png" width="300" alt="Cybersecurity Pathway"></td>
   </tr>
   <tr>
-    <td><img src="./cert-cyber-intro.svg" width="300" alt="Introduction to Cybersecurity"></td>
-    <td><img src="./cert-cyber-analyst.svg" width="300" alt="Junior Cybersecurity Analyst"></td>
+    <td><img src="./d37cd1b7-ce71-45ab-b33d-da7f8ce2.png" width="300" alt="Certificate"></td>
+    <td><img src="./introduction_to_cybersecurity_16.png" width="300" alt="Introduction to Cybersecurity"></td>
   </tr>
   <tr>
     <td><img src="./cert-inf02-theory.svg" width="300" alt="INF.02 Theory"></td>
